@@ -20,5 +20,5 @@
 
 ## Ссылки
 
-Репозиторий: (добавишь после публикации)
-Сайт GitHub Pages: (добавишь после публикации)
+Репозиторий: https://github.com/gorbunova0888/lisp-era-project
+Сайт GitHub Pages: https://gorbunova0888.github.io/lisp-era-project/
